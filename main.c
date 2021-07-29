@@ -6,3 +6,7 @@ int devFunction(){
 	//dev function
 }
 
+int feature1(){
+	//feature1 code
+}
+
